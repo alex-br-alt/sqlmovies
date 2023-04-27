@@ -71,4 +71,5 @@ WHERE people.name = 'Kevin Bacon' AND people.birth = '1958')
 AND people.name != 'Kevin Bacon';
 
 Assignment via CS50: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
+
 origional database provided to course via https://www.imdb.com/
